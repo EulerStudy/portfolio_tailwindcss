@@ -1,0 +1,24 @@
+vscode prettier 초기화
+
+<ctrl>+<,>
+default formatter: prettier
+format on save: 파일 저장시 서식을 지정
+tab size: 2
+
+.prettierrc
+{
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "trailingComma": "es5",
+  "printWidth": 80,
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "endOfLine": "lf"
+}
+
+
+vscode 커서 다중선택
+<ctrl>+<alt> 스크롤 내리기
+그리고 <shitf>+<ctlr>+<->>
